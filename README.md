@@ -6,3 +6,4 @@ The aim of this project is to be interconnected with the BackEnd project so that
 Below you'll find some screenshots of the site:
 
 
+![Uploading image.png…]()
